@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sausynf
 - 👀 I’m interested in data science, expecially data analysis.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python & R Studio.
 - 💞️ I’m looking to collaborate on projects related to data science.
 - 📫 How to reach me at sausansynf11@gmail.com
 
