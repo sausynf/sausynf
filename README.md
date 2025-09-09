@@ -1,5 +1,5 @@
-Data Science Enthusiast | Python & R Learner 
-📩 sausansynf11@gmail.com
+- Data Science Enthusiast | Python & R Learner
+- 📩 sausansynf11@gmail.com
 
 
 <!---
